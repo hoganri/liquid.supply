@@ -43,7 +43,7 @@ https://liquid.supply/accept-data/proposal_id
 
 Submit a new proposal. Body data required, change the =variable to your data being submitted
 
-baseCur = Base currency
+baseCur = Base currency  
 baseAmt = Amount of base currency  
 countCur = Counter currency  
 countAmt = Amount of counter currency  
